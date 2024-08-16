@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMetadata version="1">
+    <!--Spatial Reference System-->
+    <SRS>ENU:42.974292222999999,-81.239862145999993</SRS>
+    <!--Origin in Spatial Reference System-->
+    <SRSOrigin>0,0,242.64500000000001</SRSOrigin>
+    <Texture>
+        <ColorSource>Visible</ColorSource>
+    </Texture>
+</ModelMetadata>

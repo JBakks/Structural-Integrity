@@ -1,0 +1,382 @@
+# Blender 4.0.2 MTL File: 'bridge.blend'
+# www.blender.org
+
+newmtl 0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBA/BlockBA_0_0.jpg
+
+newmtl 0.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBX/BlockBX_0_0.jpg
+
+newmtl 0.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYA/BlockYA_0_0.jpg
+
+newmtl 0.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_0_0.jpg
+
+newmtl 1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBA/BlockBA_0_1.jpg
+
+newmtl 1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBX/BlockBX_0_1.jpg
+
+newmtl 1.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYA/BlockYA_0_1.jpg
+
+newmtl 1.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_0_1.jpg
+
+newmtl 10
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_2_0.jpg
+
+newmtl 11
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_2_1.jpg
+
+newmtl 12
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_2_2.jpg
+
+newmtl 13
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_2_3.jpg
+
+newmtl 14
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_2_4.jpg
+
+newmtl 15
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_2_5.jpg
+
+newmtl 2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBA/BlockBA_0_2.jpg
+
+newmtl 2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBX/BlockBX_0_2.jpg
+
+newmtl 2.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYA/BlockYA_0_2.jpg
+
+newmtl 2.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_0_2.jpg
+
+newmtl 3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBA/BlockBA_0_3.jpg
+
+newmtl 3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBX/BlockBX_0_3.jpg
+
+newmtl 3.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYA/BlockYA_0_3.jpg
+
+newmtl 3.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_1_0.jpg
+
+newmtl 4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBA/BlockBA_0_4.jpg
+
+newmtl 4.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBX/BlockBX_0_4.jpg
+
+newmtl 4.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYA/BlockYA_0_4.jpg
+
+newmtl 4.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_1_1.jpg
+
+newmtl 5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBA/BlockBA_0_5.jpg
+
+newmtl 5.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBX/BlockBX_0_5.jpg
+
+newmtl 5.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYA/BlockYA_0_5.jpg
+
+newmtl 5.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_1_2.jpg
+
+newmtl 6
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBA/BlockBA_1_0.jpg
+
+newmtl 6.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYA/BlockYA_1_0.jpg
+
+newmtl 6.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_1_3.jpg
+
+newmtl 7
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockBA/BlockBA_1_1.jpg
+
+newmtl 7.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYA/BlockYA_1_1.jpg
+
+newmtl 7.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_1_4.jpg
+
+newmtl 8
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_1_5.jpg
+
+newmtl 9
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bridge Tings/Bridge model/BlockYX/BlockYX_1_6.jpg

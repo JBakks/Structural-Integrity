@@ -1,0 +1,16 @@
+Assets/Bridge[[:space:]]model/BlockBA/*.obj filter=lfs diff=lfs merge=lfs -text
+Assets/Bridge[[:space:]]model/BlockBX/*.obj filter=lfs diff=lfs merge=lfs -text
+Assets/Bridge[[:space:]]model/BlockYA/*.obj filter=lfs diff=lfs merge=lfs -text
+Assets/Bridge[[:space:]]model/BlockYX/*.obj filter=lfs diff=lfs merge=lfs -text
+Assets/StarterSamples/* filter=lfs diff=lfs merge=lfs -text
+Assets/StarterSamples/Core/TouchControllers/Materials/Textures/* filter=lfs diff=lfs merge=lfs -text
+Assets/StarterSamples/Core/TouchControllers/Materials/Textures/*.TGA filter=lfs diff=lfs merge=lfs -text
+Assets/* filter=lfs diff=lfs merge=lfs -text
+Assets/StarterSamples/Core/TouchControllers/Materials/Textures/L_controlle_DIF.TGA filter=lfs diff=lfs merge=lfs -text
+Assets/StarterSamples/Core/TouchControllers/Materials/Textures/L_controller_DIF.TGA filter=lfs diff=lfs merge=lfs -text
+Assets/Bridge[[:space:]]model/BridgeBA/*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Bridge[[:space:]]model/BridgeBX/*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Bridge[[:space:]]model/BridgeYA/*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Bridge[[:space:]]model/BridgeYX/*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/'Bridge[[:space:]]model'/BridgeYX/*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Bridge[[:space:]]model/BridgeBA/BridgeBA_LOD.fbx filter=lfs diff=lfs merge=lfs -text
